@@ -21,6 +21,10 @@ img{
     display: flex;
 
 }
+.driver{
+    width:400px;
+    height: 380px;
+}
 .img-container{
     display: flex;
     flex-direction: column;
